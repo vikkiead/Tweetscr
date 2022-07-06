@@ -1,0 +1,8 @@
+mljar-mercury
+spacy
+spacytextblob
+textblob
+tweepy
+wordcloud
+pandas
+nltk
